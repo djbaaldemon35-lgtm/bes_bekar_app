@@ -1,0 +1,10 @@
+/home/jules/flutter/bin/cache/android-sdk.stamp
+/home/jules/flutter/packages/flutter_tools/lib/src/android/android_sdk.dart
+/home/jules/flutter/packages/flutter_tools/test/general.shard/android/android_sdk_test.dart
+/home/jules/flutter/packages/flutter_tools/test/integration.shard/android_plugin_compilesdkversion_mismatch_test.dart
+/home/jules/flutter/engine/src/flutter/tools/android_sdk
+/rom/overlay/root/home/jules/flutter/bin/cache/android-sdk.stamp
+/rom/overlay/root/home/jules/flutter/packages/flutter_tools/lib/src/android/android_sdk.dart
+/rom/overlay/root/home/jules/flutter/packages/flutter_tools/test/general.shard/android/android_sdk_test.dart
+/rom/overlay/root/home/jules/flutter/packages/flutter_tools/test/integration.shard/android_plugin_compilesdkversion_mismatch_test.dart
+/rom/overlay/root/home/jules/flutter/engine/src/flutter/tools/android_sdk
